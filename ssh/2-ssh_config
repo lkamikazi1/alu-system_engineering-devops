@@ -1,4 +1,4 @@
-Host *
+Host 3.9.118.220
 
 identify file ~/.ssh/school
 password authentification no
